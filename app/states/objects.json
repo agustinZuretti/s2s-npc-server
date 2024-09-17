@@ -1,0 +1,27 @@
+{
+    "npc_id": "npc_001",
+    "inventory": [
+      {
+        "item_id": "item_001",
+        "name": "Health Potion",
+        "quantity": 10,
+        "type": "consumable",
+        "durability": null
+      },
+      {
+        "item_id": "item_002",
+        "name": "Iron Sword",
+        "quantity": 1,
+        "type": "weapon",
+        "durability": 85
+      },
+      {
+        "item_id": "item_003",
+        "name": "Leather Armor",
+        "quantity": 1,
+        "type": "armor",
+        "durability": 60
+      }
+    ]
+  }
+  
